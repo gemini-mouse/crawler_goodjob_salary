@@ -6,3 +6,9 @@ https://www.goodjob.life
 提供兩種爬取方式:
 1. 同步爬取 - 耗時10分鐘左右
 2. 非同步爬取 - 耗時1分半左右，有遺漏資訊的機率
+
+## 檔案
+[goodjob_salary.xlsx](result\goodjob_salary.xlsx)
+
+## 資料呈現
+![Screenshot](png\image.png)
